@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="220">
+<td width="400">
 <img src="Ascii art.svg" width="200" alt="Anyash Prasad" />
 </td>
 <td>
