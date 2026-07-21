@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="220">
-<img src="ascii-art.svg" width="200" alt="Anyash Prasad" />
+<img src="Ascii art.svg" width="200" alt="Anyash Prasad" />
 </td>
 <td>
 
