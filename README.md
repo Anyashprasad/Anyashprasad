@@ -1,40 +1,72 @@
-<table>
-<tr>
-<td width="350" valign="middle" align="center">
-<img src="Ascii art.png" width="350" alt="Anyash Prasad" />
-</td>
-<td valign="middle">
+<div align="center">
 
-```
-Anyashprasad
------------
-OS: CachyOS x86_64
-Kernel: Linux 7.1.3-2-cachyos
-Shell: fish 4.8.1
-DE: KDE Plasma 6.7.3
-WM: KWin (Wayland)
-Terminal: konsole 26.4.3
-Local IP (wlan0):你猜
-Tea: ☕ x∞
-Sleep: git pull --force
-Battery: ☠️
+<a href="https://anyashprasad.framer.website">
+  <img src="./assets/hero-terminal.svg" alt="Anyash Prasad — CachyOS Terminal Profile" width="100%" />
+</a>
 
+<br/>
 
------------
-Focus: ML/AI Research | Full-Stack | Cybersecurity | Cloud
-Languages: Python, TypeScript, C++, Java
-Currently: Final-year B.Tech CSE @ KIIT (2027)
+<p>
+  <a href="https://anyashprasad.framer.website">
+    <img src="https://img.shields.io/badge/PORTFOLIO-anyashprasad.framer.website-8CDFFF?style=for-the-badge&labelColor=090B0E&logo=framer&logoColor=8CDFFF" alt="Portfolio"/>
+  </a>
+  <a href="https://wiki-scanner-07c94b203146.herokuapp.com/">
+    <img src="https://img.shields.io/badge/WIKISCAN-LIVE_APP-FF6B5B?style=for-the-badge&labelColor=090B0E&logo=securityscorecard&logoColor=FF6B5B" alt="Wikiscan Live"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anyash-prasad/">
+    <img src="https://img.shields.io/badge/LINKEDIN-in%2Fanyash--prasad-F1EFE8?style=for-the-badge&labelColor=090B0E&logo=linkedin&logoColor=F1EFE8" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anyashprasad.work@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-anyashprasad.work%40gmail.com-8CDFFF?style=for-the-badge&labelColor=090B0E&logo=gmail&logoColor=8CDFFF" alt="Email"/>
+  </a>
+</p>
 
------------
-Flagship: RES-DARE (Adaptive MoE IDS, LCNS, ISICVA submitted)
-Also built: ACE 2.4 | Wikiscan | AgentTrap | ThinkLightSpeed
+</div>
 
------------
-Email: anyashprasad.work@gmail.com
-LinkedIn: linkedin.com/in/anyash-prasad-03699a284
+---
 
-```
+### `[ 01 ]` — Flagship Systems
 
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://anyashprasad.framer.website/#work">
+    <img src="./assets/systems-grid.svg" alt="Flagship Systems — RES-DARE, Wikiscan, ACE Edge, AgentTrap" width="100%" />
+  </a>
+</div>
+
+<br/>
+
+| System | Domain | Highlights | Link |
+| :--- | :--- | :--- | :---: |
+| **RES-DARE** | Adaptive MoE IDS · VECC (DAE) | Dynamic expert spawning + GenAI triage on L40S cluster · **0.999 AUROC** | [Portfolio](https://anyashprasad.framer.website/#work) |
+| **Wikiscan** | Web Vulnerability Scanner | Parallel SQLi / XSS / CSRF probes streamed live over WebSockets | [Live App ↗](https://wiki-scanner-07c94b203146.herokuapp.com/) |
+| **ACE Edge** | Compact Deepfake Detector | **0.994 AUROC** / **0.904 F1** · **1.84×** speedup on dual T4s | [Repo ↗](https://github.com/Anyashprasad/ACE-deepfake-detector) |
+| **AgentTrap** | LLM Agent Security Benchmark | Automated policy risk scoring across **20** adversarial contexts | [Portfolio](https://anyashprasad.framer.website/#about) |
+| **Self-Healing Scraper** | Bright Data × ScrapVerse | Autonomous fault recovery & pipeline re-routing (`5 → 0 → 5`) | [Repo ↗](https://github.com/Anyashprasad/self-healing-scrape) |
+| **Adaptive RAG** | Hybrid Retrieval | Exact-first + semantic-first routing with confidence fallback | [Repo ↗](https://github.com/Anyashprasad/adaptive-rag) |
+
+---
+
+### `[ 02 ]` — Stack, Infra & Credentials
+
+<div align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech Stack & Certifications" width="100%" />
+</div>
+
+- **Societies & Leadership:** Core Member @ **CyberVault** *(CTF challenge author & KIIT Fest co-organizer)* · Creative Writer @ **KodeWreck**
+- **Competitions:** **MTAH’27** *(98th / 700 teams — Team OogaBooga)* · **ScrapVerse × Bright Data**
+- **Open Source:** Contributor to **Riona-AI-Agent** & security hardening forks
+
+---
+
+### `[ 03 ]` — Live Telemetry
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anyashprasad&show_icons=true&hide_border=false&bg_color=090B0E&border_color=242A31&title_color=8CDFFF&icon_color=FF6B5B&text_color=F1EFE8" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anyashprasad&layout=compact&hide_border=false&bg_color=090B0E&border_color=242A31&title_color=8CDFFF&text_color=F1EFE8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anyashprasad&bg_color=090B0E&color=8B929A&line=8CDFFF&point=FF6B5B&area=true&area_color=8CDFFF&hide_border=false&custom_title=Contribution%20Telemetry" alt="Contribution Graph" width="100%" />
+</div>
